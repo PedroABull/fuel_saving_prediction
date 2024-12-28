@@ -3,7 +3,7 @@
 
 # Previsão de consumo de combustível em automóveis
 
-Este projeto foi desenvolvido como trabalho final do módulo de Machine Learning da Pós-graduação em Data Science e Advanced Analytics da PUC-RJ. É um modelo puramente didático e a base de dados escolhida levou em conta que o modelo deveria ser executado com certas restrições impostas pelo enunciado do trabalho.
+Este projeto foi desenvolvido como trabalho final do módulo de Machine Learning da Pós-graduação em Data Science e Advanced Analytics da PUC-RJ. Este é um modelo puramente didático e a base de dados escolhida levou em conta que o modelo deveria ser executado com certas restrições impostas pelo enunciado do trabalho.
 
 ![cover_img](images/cover_img.png)
 
